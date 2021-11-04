@@ -4,14 +4,14 @@
     "name": "Black",
     "hex": "#000000",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "red": 0,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 0
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 0
     }
   },
   {
@@ -19,14 +19,14 @@
     "name": "Maroon",
     "hex": "#800000",
     "rgb": {
-      "r": 128,
-      "g": 0,
-      "b": 0
+      "red": 128,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 25
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 25
     }
   },
   {
@@ -34,14 +34,14 @@
     "name": "Green",
     "hex": "#008000",
     "rgb": {
-      "r": 0,
-      "g": 128,
-      "b": 0
+      "red": 0,
+      "green": 128,
+      "blue": 0
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 25
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 25
     }
   },
   {
@@ -49,14 +49,14 @@
     "name": "Olive",
     "hex": "#808000",
     "rgb": {
-      "r": 128,
-      "g": 128,
-      "b": 0
+      "red": 128,
+      "green": 128,
+      "blue": 0
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 25
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 25
     }
   },
   {
@@ -64,14 +64,14 @@
     "name": "Navy",
     "hex": "#000080",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 128
+      "red": 0,
+      "green": 0,
+      "blue": 128
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 25
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 25
     }
   },
   {
@@ -79,14 +79,14 @@
     "name": "Purple",
     "hex": "#800080",
     "rgb": {
-      "r": 128,
-      "g": 0,
-      "b": 128
+      "red": 128,
+      "green": 0,
+      "blue": 128
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 25
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 25
     }
   },
   {
@@ -94,14 +94,14 @@
     "name": "Teal",
     "hex": "#008080",
     "rgb": {
-      "r": 0,
-      "g": 128,
-      "b": 128
+      "red": 0,
+      "green": 128,
+      "blue": 128
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 25
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 25
     }
   },
   {
@@ -109,14 +109,14 @@
     "name": "Silver",
     "hex": "#c0c0c0",
     "rgb": {
-      "r": 192,
-      "g": 192,
-      "b": 192
+      "red": 192,
+      "green": 192,
+      "blue": 192
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 75
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 75
     }
   },
   {
@@ -124,14 +124,14 @@
     "name": "Grey",
     "hex": "#808080",
     "rgb": {
-      "r": 128,
-      "g": 128,
-      "b": 128
+      "red": 128,
+      "green": 128,
+      "blue": 128
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 50
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 50
     }
   },
   {
@@ -139,14 +139,14 @@
     "name": "Red",
     "hex": "#ff0000",
     "rgb": {
-      "r": 255,
-      "g": 0,
-      "b": 0
+      "red": 255,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 50
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -154,14 +154,14 @@
     "name": "Lime",
     "hex": "#00ff00",
     "rgb": {
-      "r": 0,
-      "g": 255,
-      "b": 0
+      "red": 0,
+      "green": 255,
+      "blue": 0
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 50
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -169,14 +169,14 @@
     "name": "Yellow",
     "hex": "#ffff00",
     "rgb": {
-      "r": 255,
-      "g": 255,
-      "b": 0
+      "red": 255,
+      "green": 255,
+      "blue": 0
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 50
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -184,14 +184,14 @@
     "name": "Blue",
     "hex": "#0000ff",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 255
+      "red": 0,
+      "green": 0,
+      "blue": 255
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 50
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -199,14 +199,14 @@
     "name": "Fuchsia",
     "hex": "#ff00ff",
     "rgb": {
-      "r": 255,
-      "g": 0,
-      "b": 255
+      "red": 255,
+      "green": 0,
+      "blue": 255
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 50
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -214,14 +214,14 @@
     "name": "Aqua",
     "hex": "#00ffff",
     "rgb": {
-      "r": 0,
-      "g": 255,
-      "b": 255
+      "red": 0,
+      "green": 255,
+      "blue": 255
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 50
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -229,14 +229,14 @@
     "name": "White",
     "hex": "#ffffff",
     "rgb": {
-      "r": 255,
-      "g": 255,
-      "b": 255
+      "red": 255,
+      "green": 255,
+      "blue": 255
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 100
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 100
     }
   },
   {
@@ -244,14 +244,14 @@
     "name": "Grey0",
     "hex": "#000000",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "red": 0,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 0
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 0
     }
   },
   {
@@ -259,14 +259,14 @@
     "name": "NavyBlue",
     "hex": "#00005f",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 95
+      "red": 0,
+      "green": 0,
+      "blue": 95
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 18
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 18
     }
   },
   {
@@ -274,14 +274,14 @@
     "name": "DarkBlue",
     "hex": "#000087",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 135
+      "red": 0,
+      "green": 0,
+      "blue": 135
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 26
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -289,14 +289,14 @@
     "name": "Blue3",
     "hex": "#0000af",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 175
+      "red": 0,
+      "green": 0,
+      "blue": 175
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 34
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -304,14 +304,14 @@
     "name": "Blue3",
     "hex": "#0000d7",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 215
+      "red": 0,
+      "green": 0,
+      "blue": 215
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 42
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -319,14 +319,14 @@
     "name": "Blue1",
     "hex": "#0000ff",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 255
+      "red": 0,
+      "green": 0,
+      "blue": 255
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 50
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -334,14 +334,14 @@
     "name": "DarkGreen",
     "hex": "#005f00",
     "rgb": {
-      "r": 0,
-      "g": 95,
-      "b": 0
+      "red": 0,
+      "green": 95,
+      "blue": 0
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 18
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 18
     }
   },
   {
@@ -349,14 +349,14 @@
     "name": "DeepSkyBlue4",
     "hex": "#005f5f",
     "rgb": {
-      "r": 0,
-      "g": 95,
-      "b": 95
+      "red": 0,
+      "green": 95,
+      "blue": 95
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 18
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 18
     }
   },
   {
@@ -364,14 +364,14 @@
     "name": "DeepSkyBlue4",
     "hex": "#005f87",
     "rgb": {
-      "r": 0,
-      "g": 95,
-      "b": 135
+      "red": 0,
+      "green": 95,
+      "blue": 135
     },
     "hsl": {
-      "h": 197.777777777778,
-      "s": 100,
-      "l": 26
+      "hue": 197.777777777778,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -379,14 +379,14 @@
     "name": "DeepSkyBlue4",
     "hex": "#005faf",
     "rgb": {
-      "r": 0,
-      "g": 95,
-      "b": 175
+      "red": 0,
+      "green": 95,
+      "blue": 175
     },
     "hsl": {
-      "h": 207.428571428571,
-      "s": 100,
-      "l": 34
+      "hue": 207.428571428571,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -394,14 +394,14 @@
     "name": "DodgerBlue3",
     "hex": "#005fd7",
     "rgb": {
-      "r": 0,
-      "g": 95,
-      "b": 215
+      "red": 0,
+      "green": 95,
+      "blue": 215
     },
     "hsl": {
-      "h": 213.488372093023,
-      "s": 100,
-      "l": 42
+      "hue": 213.488372093023,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -409,14 +409,14 @@
     "name": "DodgerBlue2",
     "hex": "#005fff",
     "rgb": {
-      "r": 0,
-      "g": 95,
-      "b": 255
+      "red": 0,
+      "green": 95,
+      "blue": 255
     },
     "hsl": {
-      "h": 217.647058823529,
-      "s": 100,
-      "l": 50
+      "hue": 217.647058823529,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -424,14 +424,14 @@
     "name": "Green4",
     "hex": "#008700",
     "rgb": {
-      "r": 0,
-      "g": 135,
-      "b": 0
+      "red": 0,
+      "green": 135,
+      "blue": 0
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 26
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -439,14 +439,14 @@
     "name": "SpringGreen4",
     "hex": "#00875f",
     "rgb": {
-      "r": 0,
-      "g": 135,
-      "b": 95
+      "red": 0,
+      "green": 135,
+      "blue": 95
     },
     "hsl": {
-      "h": 162.222222222222,
-      "s": 100,
-      "l": 26
+      "hue": 162.222222222222,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -454,14 +454,14 @@
     "name": "Turquoise4",
     "hex": "#008787",
     "rgb": {
-      "r": 0,
-      "g": 135,
-      "b": 135
+      "red": 0,
+      "green": 135,
+      "blue": 135
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 26
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -469,14 +469,14 @@
     "name": "DeepSkyBlue3",
     "hex": "#0087af",
     "rgb": {
-      "r": 0,
-      "g": 135,
-      "b": 175
+      "red": 0,
+      "green": 135,
+      "blue": 175
     },
     "hsl": {
-      "h": 193.714285714286,
-      "s": 100,
-      "l": 34
+      "hue": 193.714285714286,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -484,14 +484,14 @@
     "name": "DeepSkyBlue3",
     "hex": "#0087d7",
     "rgb": {
-      "r": 0,
-      "g": 135,
-      "b": 215
+      "red": 0,
+      "green": 135,
+      "blue": 215
     },
     "hsl": {
-      "h": 202.325581395349,
-      "s": 100,
-      "l": 42
+      "hue": 202.325581395349,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -499,14 +499,14 @@
     "name": "DodgerBlue1",
     "hex": "#0087ff",
     "rgb": {
-      "r": 0,
-      "g": 135,
-      "b": 255
+      "red": 0,
+      "green": 135,
+      "blue": 255
     },
     "hsl": {
-      "h": 208.235294117647,
-      "s": 100,
-      "l": 50
+      "hue": 208.235294117647,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -514,14 +514,14 @@
     "name": "Green3",
     "hex": "#00af00",
     "rgb": {
-      "r": 0,
-      "g": 175,
-      "b": 0
+      "red": 0,
+      "green": 175,
+      "blue": 0
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 34
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -529,14 +529,14 @@
     "name": "SpringGreen3",
     "hex": "#00af5f",
     "rgb": {
-      "r": 0,
-      "g": 175,
-      "b": 95
+      "red": 0,
+      "green": 175,
+      "blue": 95
     },
     "hsl": {
-      "h": 152.571428571429,
-      "s": 100,
-      "l": 34
+      "hue": 152.571428571429,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -544,14 +544,14 @@
     "name": "DarkCyan",
     "hex": "#00af87",
     "rgb": {
-      "r": 0,
-      "g": 175,
-      "b": 135
+      "red": 0,
+      "green": 175,
+      "blue": 135
     },
     "hsl": {
-      "h": 166.285714285714,
-      "s": 100,
-      "l": 34
+      "hue": 166.285714285714,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -559,14 +559,14 @@
     "name": "LightSeaGreen",
     "hex": "#00afaf",
     "rgb": {
-      "r": 0,
-      "g": 175,
-      "b": 175
+      "red": 0,
+      "green": 175,
+      "blue": 175
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 34
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -574,14 +574,14 @@
     "name": "DeepSkyBlue2",
     "hex": "#00afd7",
     "rgb": {
-      "r": 0,
-      "g": 175,
-      "b": 215
+      "red": 0,
+      "green": 175,
+      "blue": 215
     },
     "hsl": {
-      "h": 191.162790697674,
-      "s": 100,
-      "l": 42
+      "hue": 191.162790697674,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -589,14 +589,14 @@
     "name": "DeepSkyBlue1",
     "hex": "#00afff",
     "rgb": {
-      "r": 0,
-      "g": 175,
-      "b": 255
+      "red": 0,
+      "green": 175,
+      "blue": 255
     },
     "hsl": {
-      "h": 198.823529411765,
-      "s": 100,
-      "l": 50
+      "hue": 198.823529411765,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -604,14 +604,14 @@
     "name": "Green3",
     "hex": "#00d700",
     "rgb": {
-      "r": 0,
-      "g": 215,
-      "b": 0
+      "red": 0,
+      "green": 215,
+      "blue": 0
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 42
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -619,14 +619,14 @@
     "name": "SpringGreen3",
     "hex": "#00d75f",
     "rgb": {
-      "r": 0,
-      "g": 215,
-      "b": 95
+      "red": 0,
+      "green": 215,
+      "blue": 95
     },
     "hsl": {
-      "h": 146.511627906977,
-      "s": 100,
-      "l": 42
+      "hue": 146.511627906977,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -634,14 +634,14 @@
     "name": "SpringGreen2",
     "hex": "#00d787",
     "rgb": {
-      "r": 0,
-      "g": 215,
-      "b": 135
+      "red": 0,
+      "green": 215,
+      "blue": 135
     },
     "hsl": {
-      "h": 157.674418604651,
-      "s": 100,
-      "l": 42
+      "hue": 157.674418604651,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -649,14 +649,14 @@
     "name": "Cyan3",
     "hex": "#00d7af",
     "rgb": {
-      "r": 0,
-      "g": 215,
-      "b": 175
+      "red": 0,
+      "green": 215,
+      "blue": 175
     },
     "hsl": {
-      "h": 168.837209302326,
-      "s": 100,
-      "l": 42
+      "hue": 168.837209302326,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -664,14 +664,14 @@
     "name": "DarkTurquoise",
     "hex": "#00d7d7",
     "rgb": {
-      "r": 0,
-      "g": 215,
-      "b": 215
+      "red": 0,
+      "green": 215,
+      "blue": 215
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 42
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -679,14 +679,14 @@
     "name": "Turquoise2",
     "hex": "#00d7ff",
     "rgb": {
-      "r": 0,
-      "g": 215,
-      "b": 255
+      "red": 0,
+      "green": 215,
+      "blue": 255
     },
     "hsl": {
-      "h": 189.411764705882,
-      "s": 100,
-      "l": 50
+      "hue": 189.411764705882,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -694,14 +694,14 @@
     "name": "Green1",
     "hex": "#00ff00",
     "rgb": {
-      "r": 0,
-      "g": 255,
-      "b": 0
+      "red": 0,
+      "green": 255,
+      "blue": 0
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 50
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -709,14 +709,14 @@
     "name": "SpringGreen2",
     "hex": "#00ff5f",
     "rgb": {
-      "r": 0,
-      "g": 255,
-      "b": 95
+      "red": 0,
+      "green": 255,
+      "blue": 95
     },
     "hsl": {
-      "h": 142.352941176471,
-      "s": 100,
-      "l": 50
+      "hue": 142.352941176471,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -724,14 +724,14 @@
     "name": "SpringGreen1",
     "hex": "#00ff87",
     "rgb": {
-      "r": 0,
-      "g": 255,
-      "b": 135
+      "red": 0,
+      "green": 255,
+      "blue": 135
     },
     "hsl": {
-      "h": 151.764705882353,
-      "s": 100,
-      "l": 50
+      "hue": 151.764705882353,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -739,14 +739,14 @@
     "name": "MediumSpringGreen",
     "hex": "#00ffaf",
     "rgb": {
-      "r": 0,
-      "g": 255,
-      "b": 175
+      "red": 0,
+      "green": 255,
+      "blue": 175
     },
     "hsl": {
-      "h": 161.176470588235,
-      "s": 100,
-      "l": 50
+      "hue": 161.176470588235,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -754,14 +754,14 @@
     "name": "Cyan2",
     "hex": "#00ffd7",
     "rgb": {
-      "r": 0,
-      "g": 255,
-      "b": 215
+      "red": 0,
+      "green": 255,
+      "blue": 215
     },
     "hsl": {
-      "h": 170.588235294118,
-      "s": 100,
-      "l": 50
+      "hue": 170.588235294118,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -769,14 +769,14 @@
     "name": "Cyan1",
     "hex": "#00ffff",
     "rgb": {
-      "r": 0,
-      "g": 255,
-      "b": 255
+      "red": 0,
+      "green": 255,
+      "blue": 255
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 50
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -784,14 +784,14 @@
     "name": "DarkRed",
     "hex": "#5f0000",
     "rgb": {
-      "r": 95,
-      "g": 0,
-      "b": 0
+      "red": 95,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 18
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 18
     }
   },
   {
@@ -799,14 +799,14 @@
     "name": "DeepPink4",
     "hex": "#5f005f",
     "rgb": {
-      "r": 95,
-      "g": 0,
-      "b": 95
+      "red": 95,
+      "green": 0,
+      "blue": 95
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 18
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 18
     }
   },
   {
@@ -814,14 +814,14 @@
     "name": "Purple4",
     "hex": "#5f0087",
     "rgb": {
-      "r": 95,
-      "g": 0,
-      "b": 135
+      "red": 95,
+      "green": 0,
+      "blue": 135
     },
     "hsl": {
-      "h": 282.222222222222,
-      "s": 100,
-      "l": 26
+      "hue": 282.222222222222,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -829,14 +829,14 @@
     "name": "Purple4",
     "hex": "#5f00af",
     "rgb": {
-      "r": 95,
-      "g": 0,
-      "b": 175
+      "red": 95,
+      "green": 0,
+      "blue": 175
     },
     "hsl": {
-      "h": 272.571428571429,
-      "s": 100,
-      "l": 34
+      "hue": 272.571428571429,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -844,14 +844,14 @@
     "name": "Purple3",
     "hex": "#5f00d7",
     "rgb": {
-      "r": 95,
-      "g": 0,
-      "b": 215
+      "red": 95,
+      "green": 0,
+      "blue": 215
     },
     "hsl": {
-      "h": 266.511627906977,
-      "s": 100,
-      "l": 42
+      "hue": 266.511627906977,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -859,14 +859,14 @@
     "name": "BlueViolet",
     "hex": "#5f00ff",
     "rgb": {
-      "r": 95,
-      "g": 0,
-      "b": 255
+      "red": 95,
+      "green": 0,
+      "blue": 255
     },
     "hsl": {
-      "h": 262.352941176471,
-      "s": 100,
-      "l": 50
+      "hue": 262.352941176471,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -874,14 +874,14 @@
     "name": "Orange4",
     "hex": "#5f5f00",
     "rgb": {
-      "r": 95,
-      "g": 95,
-      "b": 0
+      "red": 95,
+      "green": 95,
+      "blue": 0
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 18
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 18
     }
   },
   {
@@ -889,14 +889,14 @@
     "name": "Grey37",
     "hex": "#5f5f5f",
     "rgb": {
-      "r": 95,
-      "g": 95,
-      "b": 95
+      "red": 95,
+      "green": 95,
+      "blue": 95
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 37
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 37
     }
   },
   {
@@ -904,14 +904,14 @@
     "name": "MediumPurple4",
     "hex": "#5f5f87",
     "rgb": {
-      "r": 95,
-      "g": 95,
-      "b": 135
+      "red": 95,
+      "green": 95,
+      "blue": 135
     },
     "hsl": {
-      "h": 240,
-      "s": 17,
-      "l": 45
+      "hue": 240,
+      "saturation": 17,
+      "lightness": 45
     }
   },
   {
@@ -919,14 +919,14 @@
     "name": "SlateBlue3",
     "hex": "#5f5faf",
     "rgb": {
-      "r": 95,
-      "g": 95,
-      "b": 175
+      "red": 95,
+      "green": 95,
+      "blue": 175
     },
     "hsl": {
-      "h": 240,
-      "s": 33,
-      "l": 52
+      "hue": 240,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -934,14 +934,14 @@
     "name": "SlateBlue3",
     "hex": "#5f5fd7",
     "rgb": {
-      "r": 95,
-      "g": 95,
-      "b": 215
+      "red": 95,
+      "green": 95,
+      "blue": 215
     },
     "hsl": {
-      "h": 240,
-      "s": 60,
-      "l": 60
+      "hue": 240,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -949,14 +949,14 @@
     "name": "RoyalBlue1",
     "hex": "#5f5fff",
     "rgb": {
-      "r": 95,
-      "g": 95,
-      "b": 255
+      "red": 95,
+      "green": 95,
+      "blue": 255
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 68
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -964,14 +964,14 @@
     "name": "Chartreuse4",
     "hex": "#5f8700",
     "rgb": {
-      "r": 95,
-      "g": 135,
-      "b": 0
+      "red": 95,
+      "green": 135,
+      "blue": 0
     },
     "hsl": {
-      "h": 77.7777777777778,
-      "s": 100,
-      "l": 26
+      "hue": 77.7777777777778,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -979,14 +979,14 @@
     "name": "DarkSeaGreen4",
     "hex": "#5f875f",
     "rgb": {
-      "r": 95,
-      "g": 135,
-      "b": 95
+      "red": 95,
+      "green": 135,
+      "blue": 95
     },
     "hsl": {
-      "h": 120,
-      "s": 17,
-      "l": 45
+      "hue": 120,
+      "saturation": 17,
+      "lightness": 45
     }
   },
   {
@@ -994,14 +994,14 @@
     "name": "PaleTurquoise4",
     "hex": "#5f8787",
     "rgb": {
-      "r": 95,
-      "g": 135,
-      "b": 135
+      "red": 95,
+      "green": 135,
+      "blue": 135
     },
     "hsl": {
-      "h": 180,
-      "s": 17,
-      "l": 45
+      "hue": 180,
+      "saturation": 17,
+      "lightness": 45
     }
   },
   {
@@ -1009,14 +1009,14 @@
     "name": "SteelBlue",
     "hex": "#5f87af",
     "rgb": {
-      "r": 95,
-      "g": 135,
-      "b": 175
+      "red": 95,
+      "green": 135,
+      "blue": 175
     },
     "hsl": {
-      "h": 210,
-      "s": 33,
-      "l": 52
+      "hue": 210,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -1024,14 +1024,14 @@
     "name": "SteelBlue3",
     "hex": "#5f87d7",
     "rgb": {
-      "r": 95,
-      "g": 135,
-      "b": 215
+      "red": 95,
+      "green": 135,
+      "blue": 215
     },
     "hsl": {
-      "h": 220,
-      "s": 60,
-      "l": 60
+      "hue": 220,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -1039,14 +1039,14 @@
     "name": "CornflowerBlue",
     "hex": "#5f87ff",
     "rgb": {
-      "r": 95,
-      "g": 135,
-      "b": 255
+      "red": 95,
+      "green": 135,
+      "blue": 255
     },
     "hsl": {
-      "h": 225,
-      "s": 100,
-      "l": 68
+      "hue": 225,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1054,14 +1054,14 @@
     "name": "Chartreuse3",
     "hex": "#5faf00",
     "rgb": {
-      "r": 95,
-      "g": 175,
-      "b": 0
+      "red": 95,
+      "green": 175,
+      "blue": 0
     },
     "hsl": {
-      "h": 87.4285714285714,
-      "s": 100,
-      "l": 34
+      "hue": 87.4285714285714,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -1069,14 +1069,14 @@
     "name": "DarkSeaGreen4",
     "hex": "#5faf5f",
     "rgb": {
-      "r": 95,
-      "g": 175,
-      "b": 95
+      "red": 95,
+      "green": 175,
+      "blue": 95
     },
     "hsl": {
-      "h": 120,
-      "s": 33,
-      "l": 52
+      "hue": 120,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -1084,14 +1084,14 @@
     "name": "CadetBlue",
     "hex": "#5faf87",
     "rgb": {
-      "r": 95,
-      "g": 175,
-      "b": 135
+      "red": 95,
+      "green": 175,
+      "blue": 135
     },
     "hsl": {
-      "h": 150,
-      "s": 33,
-      "l": 52
+      "hue": 150,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -1099,14 +1099,14 @@
     "name": "CadetBlue",
     "hex": "#5fafaf",
     "rgb": {
-      "r": 95,
-      "g": 175,
-      "b": 175
+      "red": 95,
+      "green": 175,
+      "blue": 175
     },
     "hsl": {
-      "h": 180,
-      "s": 33,
-      "l": 52
+      "hue": 180,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -1114,14 +1114,14 @@
     "name": "SkyBlue3",
     "hex": "#5fafd7",
     "rgb": {
-      "r": 95,
-      "g": 175,
-      "b": 215
+      "red": 95,
+      "green": 175,
+      "blue": 215
     },
     "hsl": {
-      "h": 200,
-      "s": 60,
-      "l": 60
+      "hue": 200,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -1129,14 +1129,14 @@
     "name": "SteelBlue1",
     "hex": "#5fafff",
     "rgb": {
-      "r": 95,
-      "g": 175,
-      "b": 255
+      "red": 95,
+      "green": 175,
+      "blue": 255
     },
     "hsl": {
-      "h": 210,
-      "s": 100,
-      "l": 68
+      "hue": 210,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1144,14 +1144,14 @@
     "name": "Chartreuse3",
     "hex": "#5fd700",
     "rgb": {
-      "r": 95,
-      "g": 215,
-      "b": 0
+      "red": 95,
+      "green": 215,
+      "blue": 0
     },
     "hsl": {
-      "h": 93.4883720930233,
-      "s": 100,
-      "l": 42
+      "hue": 93.4883720930233,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -1159,14 +1159,14 @@
     "name": "PaleGreen3",
     "hex": "#5fd75f",
     "rgb": {
-      "r": 95,
-      "g": 215,
-      "b": 95
+      "red": 95,
+      "green": 215,
+      "blue": 95
     },
     "hsl": {
-      "h": 120,
-      "s": 60,
-      "l": 60
+      "hue": 120,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -1174,14 +1174,14 @@
     "name": "SeaGreen3",
     "hex": "#5fd787",
     "rgb": {
-      "r": 95,
-      "g": 215,
-      "b": 135
+      "red": 95,
+      "green": 215,
+      "blue": 135
     },
     "hsl": {
-      "h": 140,
-      "s": 60,
-      "l": 60
+      "hue": 140,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -1189,14 +1189,14 @@
     "name": "Aquamarine3",
     "hex": "#5fd7af",
     "rgb": {
-      "r": 95,
-      "g": 215,
-      "b": 175
+      "red": 95,
+      "green": 215,
+      "blue": 175
     },
     "hsl": {
-      "h": 160,
-      "s": 60,
-      "l": 60
+      "hue": 160,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -1204,14 +1204,14 @@
     "name": "MediumTurquoise",
     "hex": "#5fd7d7",
     "rgb": {
-      "r": 95,
-      "g": 215,
-      "b": 215
+      "red": 95,
+      "green": 215,
+      "blue": 215
     },
     "hsl": {
-      "h": 180,
-      "s": 60,
-      "l": 60
+      "hue": 180,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -1219,14 +1219,14 @@
     "name": "SteelBlue1",
     "hex": "#5fd7ff",
     "rgb": {
-      "r": 95,
-      "g": 215,
-      "b": 255
+      "red": 95,
+      "green": 215,
+      "blue": 255
     },
     "hsl": {
-      "h": 195,
-      "s": 100,
-      "l": 68
+      "hue": 195,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1234,14 +1234,14 @@
     "name": "Chartreuse2",
     "hex": "#5fff00",
     "rgb": {
-      "r": 95,
-      "g": 255,
-      "b": 0
+      "red": 95,
+      "green": 255,
+      "blue": 0
     },
     "hsl": {
-      "h": 97.6470588235294,
-      "s": 100,
-      "l": 50
+      "hue": 97.6470588235294,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -1249,14 +1249,14 @@
     "name": "SeaGreen2",
     "hex": "#5fff5f",
     "rgb": {
-      "r": 95,
-      "g": 255,
-      "b": 95
+      "red": 95,
+      "green": 255,
+      "blue": 95
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 68
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1264,14 +1264,14 @@
     "name": "SeaGreen1",
     "hex": "#5fff87",
     "rgb": {
-      "r": 95,
-      "g": 255,
-      "b": 135
+      "red": 95,
+      "green": 255,
+      "blue": 135
     },
     "hsl": {
-      "h": 135,
-      "s": 100,
-      "l": 68
+      "hue": 135,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1279,14 +1279,14 @@
     "name": "SeaGreen1",
     "hex": "#5fffaf",
     "rgb": {
-      "r": 95,
-      "g": 255,
-      "b": 175
+      "red": 95,
+      "green": 255,
+      "blue": 175
     },
     "hsl": {
-      "h": 150,
-      "s": 100,
-      "l": 68
+      "hue": 150,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1294,14 +1294,14 @@
     "name": "Aquamarine1",
     "hex": "#5fffd7",
     "rgb": {
-      "r": 95,
-      "g": 255,
-      "b": 215
+      "red": 95,
+      "green": 255,
+      "blue": 215
     },
     "hsl": {
-      "h": 165,
-      "s": 100,
-      "l": 68
+      "hue": 165,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1309,14 +1309,14 @@
     "name": "DarkSlateGray2",
     "hex": "#5fffff",
     "rgb": {
-      "r": 95,
-      "g": 255,
-      "b": 255
+      "red": 95,
+      "green": 255,
+      "blue": 255
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 68
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1324,14 +1324,14 @@
     "name": "DarkRed",
     "hex": "#870000",
     "rgb": {
-      "r": 135,
-      "g": 0,
-      "b": 0
+      "red": 135,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 26
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -1339,14 +1339,14 @@
     "name": "DeepPink4",
     "hex": "#87005f",
     "rgb": {
-      "r": 135,
-      "g": 0,
-      "b": 95
+      "red": 135,
+      "green": 0,
+      "blue": 95
     },
     "hsl": {
-      "h": 317.777777777778,
-      "s": 100,
-      "l": 26
+      "hue": 317.777777777778,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -1354,14 +1354,14 @@
     "name": "DarkMagenta",
     "hex": "#870087",
     "rgb": {
-      "r": 135,
-      "g": 0,
-      "b": 135
+      "red": 135,
+      "green": 0,
+      "blue": 135
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 26
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -1369,14 +1369,14 @@
     "name": "DarkMagenta",
     "hex": "#8700af",
     "rgb": {
-      "r": 135,
-      "g": 0,
-      "b": 175
+      "red": 135,
+      "green": 0,
+      "blue": 175
     },
     "hsl": {
-      "h": 286.285714285714,
-      "s": 100,
-      "l": 34
+      "hue": 286.285714285714,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -1384,14 +1384,14 @@
     "name": "DarkViolet",
     "hex": "#8700d7",
     "rgb": {
-      "r": 135,
-      "g": 0,
-      "b": 215
+      "red": 135,
+      "green": 0,
+      "blue": 215
     },
     "hsl": {
-      "h": 277.674418604651,
-      "s": 100,
-      "l": 42
+      "hue": 277.674418604651,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -1399,14 +1399,14 @@
     "name": "Purple",
     "hex": "#8700ff",
     "rgb": {
-      "r": 135,
-      "g": 0,
-      "b": 255
+      "red": 135,
+      "green": 0,
+      "blue": 255
     },
     "hsl": {
-      "h": 271.764705882353,
-      "s": 100,
-      "l": 50
+      "hue": 271.764705882353,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -1414,14 +1414,14 @@
     "name": "Orange4",
     "hex": "#875f00",
     "rgb": {
-      "r": 135,
-      "g": 95,
-      "b": 0
+      "red": 135,
+      "green": 95,
+      "blue": 0
     },
     "hsl": {
-      "h": 42.2222222222222,
-      "s": 100,
-      "l": 26
+      "hue": 42.2222222222222,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -1429,14 +1429,14 @@
     "name": "LightPink4",
     "hex": "#875f5f",
     "rgb": {
-      "r": 135,
-      "g": 95,
-      "b": 95
+      "red": 135,
+      "green": 95,
+      "blue": 95
     },
     "hsl": {
-      "h": 0,
-      "s": 17,
-      "l": 45
+      "hue": 0,
+      "saturation": 17,
+      "lightness": 45
     }
   },
   {
@@ -1444,14 +1444,14 @@
     "name": "Plum4",
     "hex": "#875f87",
     "rgb": {
-      "r": 135,
-      "g": 95,
-      "b": 135
+      "red": 135,
+      "green": 95,
+      "blue": 135
     },
     "hsl": {
-      "h": 300,
-      "s": 17,
-      "l": 45
+      "hue": 300,
+      "saturation": 17,
+      "lightness": 45
     }
   },
   {
@@ -1459,14 +1459,14 @@
     "name": "MediumPurple3",
     "hex": "#875faf",
     "rgb": {
-      "r": 135,
-      "g": 95,
-      "b": 175
+      "red": 135,
+      "green": 95,
+      "blue": 175
     },
     "hsl": {
-      "h": 270,
-      "s": 33,
-      "l": 52
+      "hue": 270,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -1474,14 +1474,14 @@
     "name": "MediumPurple3",
     "hex": "#875fd7",
     "rgb": {
-      "r": 135,
-      "g": 95,
-      "b": 215
+      "red": 135,
+      "green": 95,
+      "blue": 215
     },
     "hsl": {
-      "h": 260,
-      "s": 60,
-      "l": 60
+      "hue": 260,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -1489,14 +1489,14 @@
     "name": "SlateBlue1",
     "hex": "#875fff",
     "rgb": {
-      "r": 135,
-      "g": 95,
-      "b": 255
+      "red": 135,
+      "green": 95,
+      "blue": 255
     },
     "hsl": {
-      "h": 255,
-      "s": 100,
-      "l": 68
+      "hue": 255,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1504,14 +1504,14 @@
     "name": "Yellow4",
     "hex": "#878700",
     "rgb": {
-      "r": 135,
-      "g": 135,
-      "b": 0
+      "red": 135,
+      "green": 135,
+      "blue": 0
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 26
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 26
     }
   },
   {
@@ -1519,14 +1519,14 @@
     "name": "Wheat4",
     "hex": "#87875f",
     "rgb": {
-      "r": 135,
-      "g": 135,
-      "b": 95
+      "red": 135,
+      "green": 135,
+      "blue": 95
     },
     "hsl": {
-      "h": 60,
-      "s": 17,
-      "l": 45
+      "hue": 60,
+      "saturation": 17,
+      "lightness": 45
     }
   },
   {
@@ -1534,14 +1534,14 @@
     "name": "Grey53",
     "hex": "#878787",
     "rgb": {
-      "r": 135,
-      "g": 135,
-      "b": 135
+      "red": 135,
+      "green": 135,
+      "blue": 135
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 52
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 52
     }
   },
   {
@@ -1549,14 +1549,14 @@
     "name": "LightSlateGrey",
     "hex": "#8787af",
     "rgb": {
-      "r": 135,
-      "g": 135,
-      "b": 175
+      "red": 135,
+      "green": 135,
+      "blue": 175
     },
     "hsl": {
-      "h": 240,
-      "s": 20,
-      "l": 60
+      "hue": 240,
+      "saturation": 20,
+      "lightness": 60
     }
   },
   {
@@ -1564,14 +1564,14 @@
     "name": "MediumPurple",
     "hex": "#8787d7",
     "rgb": {
-      "r": 135,
-      "g": 135,
-      "b": 215
+      "red": 135,
+      "green": 135,
+      "blue": 215
     },
     "hsl": {
-      "h": 240,
-      "s": 50,
-      "l": 68
+      "hue": 240,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -1579,14 +1579,14 @@
     "name": "LightSlateBlue",
     "hex": "#8787ff",
     "rgb": {
-      "r": 135,
-      "g": 135,
-      "b": 255
+      "red": 135,
+      "green": 135,
+      "blue": 255
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 76
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -1594,14 +1594,14 @@
     "name": "Yellow4",
     "hex": "#87af00",
     "rgb": {
-      "r": 135,
-      "g": 175,
-      "b": 0
+      "red": 135,
+      "green": 175,
+      "blue": 0
     },
     "hsl": {
-      "h": 73.7142857142857,
-      "s": 100,
-      "l": 34
+      "hue": 73.7142857142857,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -1609,14 +1609,14 @@
     "name": "DarkOliveGreen3",
     "hex": "#87af5f",
     "rgb": {
-      "r": 135,
-      "g": 175,
-      "b": 95
+      "red": 135,
+      "green": 175,
+      "blue": 95
     },
     "hsl": {
-      "h": 90,
-      "s": 33,
-      "l": 52
+      "hue": 90,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -1624,14 +1624,14 @@
     "name": "DarkSeaGreen",
     "hex": "#87af87",
     "rgb": {
-      "r": 135,
-      "g": 175,
-      "b": 135
+      "red": 135,
+      "green": 175,
+      "blue": 135
     },
     "hsl": {
-      "h": 120,
-      "s": 20,
-      "l": 60
+      "hue": 120,
+      "saturation": 20,
+      "lightness": 60
     }
   },
   {
@@ -1639,14 +1639,14 @@
     "name": "LightSkyBlue3",
     "hex": "#87afaf",
     "rgb": {
-      "r": 135,
-      "g": 175,
-      "b": 175
+      "red": 135,
+      "green": 175,
+      "blue": 175
     },
     "hsl": {
-      "h": 180,
-      "s": 20,
-      "l": 60
+      "hue": 180,
+      "saturation": 20,
+      "lightness": 60
     }
   },
   {
@@ -1654,14 +1654,14 @@
     "name": "LightSkyBlue3",
     "hex": "#87afd7",
     "rgb": {
-      "r": 135,
-      "g": 175,
-      "b": 215
+      "red": 135,
+      "green": 175,
+      "blue": 215
     },
     "hsl": {
-      "h": 210,
-      "s": 50,
-      "l": 68
+      "hue": 210,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -1669,14 +1669,14 @@
     "name": "SkyBlue2",
     "hex": "#87afff",
     "rgb": {
-      "r": 135,
-      "g": 175,
-      "b": 255
+      "red": 135,
+      "green": 175,
+      "blue": 255
     },
     "hsl": {
-      "h": 220,
-      "s": 100,
-      "l": 76
+      "hue": 220,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -1684,14 +1684,14 @@
     "name": "Chartreuse2",
     "hex": "#87d700",
     "rgb": {
-      "r": 135,
-      "g": 215,
-      "b": 0
+      "red": 135,
+      "green": 215,
+      "blue": 0
     },
     "hsl": {
-      "h": 82.3255813953488,
-      "s": 100,
-      "l": 42
+      "hue": 82.3255813953488,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -1699,14 +1699,14 @@
     "name": "DarkOliveGreen3",
     "hex": "#87d75f",
     "rgb": {
-      "r": 135,
-      "g": 215,
-      "b": 95
+      "red": 135,
+      "green": 215,
+      "blue": 95
     },
     "hsl": {
-      "h": 100,
-      "s": 60,
-      "l": 60
+      "hue": 100,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -1714,14 +1714,14 @@
     "name": "PaleGreen3",
     "hex": "#87d787",
     "rgb": {
-      "r": 135,
-      "g": 215,
-      "b": 135
+      "red": 135,
+      "green": 215,
+      "blue": 135
     },
     "hsl": {
-      "h": 120,
-      "s": 50,
-      "l": 68
+      "hue": 120,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -1729,14 +1729,14 @@
     "name": "DarkSeaGreen3",
     "hex": "#87d7af",
     "rgb": {
-      "r": 135,
-      "g": 215,
-      "b": 175
+      "red": 135,
+      "green": 215,
+      "blue": 175
     },
     "hsl": {
-      "h": 150,
-      "s": 50,
-      "l": 68
+      "hue": 150,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -1744,14 +1744,14 @@
     "name": "DarkSlateGray3",
     "hex": "#87d7d7",
     "rgb": {
-      "r": 135,
-      "g": 215,
-      "b": 215
+      "red": 135,
+      "green": 215,
+      "blue": 215
     },
     "hsl": {
-      "h": 180,
-      "s": 50,
-      "l": 68
+      "hue": 180,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -1759,14 +1759,14 @@
     "name": "SkyBlue1",
     "hex": "#87d7ff",
     "rgb": {
-      "r": 135,
-      "g": 215,
-      "b": 255
+      "red": 135,
+      "green": 215,
+      "blue": 255
     },
     "hsl": {
-      "h": 200,
-      "s": 100,
-      "l": 76
+      "hue": 200,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -1774,14 +1774,14 @@
     "name": "Chartreuse1",
     "hex": "#87ff00",
     "rgb": {
-      "r": 135,
-      "g": 255,
-      "b": 0
+      "red": 135,
+      "green": 255,
+      "blue": 0
     },
     "hsl": {
-      "h": 88.2352941176471,
-      "s": 100,
-      "l": 50
+      "hue": 88.2352941176471,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -1789,14 +1789,14 @@
     "name": "LightGreen",
     "hex": "#87ff5f",
     "rgb": {
-      "r": 135,
-      "g": 255,
-      "b": 95
+      "red": 135,
+      "green": 255,
+      "blue": 95
     },
     "hsl": {
-      "h": 105,
-      "s": 100,
-      "l": 68
+      "hue": 105,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -1804,14 +1804,14 @@
     "name": "LightGreen",
     "hex": "#87ff87",
     "rgb": {
-      "r": 135,
-      "g": 255,
-      "b": 135
+      "red": 135,
+      "green": 255,
+      "blue": 135
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 76
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -1819,14 +1819,14 @@
     "name": "PaleGreen1",
     "hex": "#87ffaf",
     "rgb": {
-      "r": 135,
-      "g": 255,
-      "b": 175
+      "red": 135,
+      "green": 255,
+      "blue": 175
     },
     "hsl": {
-      "h": 140,
-      "s": 100,
-      "l": 76
+      "hue": 140,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -1834,14 +1834,14 @@
     "name": "Aquamarine1",
     "hex": "#87ffd7",
     "rgb": {
-      "r": 135,
-      "g": 255,
-      "b": 215
+      "red": 135,
+      "green": 255,
+      "blue": 215
     },
     "hsl": {
-      "h": 160,
-      "s": 100,
-      "l": 76
+      "hue": 160,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -1849,14 +1849,14 @@
     "name": "DarkSlateGray1",
     "hex": "#87ffff",
     "rgb": {
-      "r": 135,
-      "g": 255,
-      "b": 255
+      "red": 135,
+      "green": 255,
+      "blue": 255
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 76
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -1864,14 +1864,14 @@
     "name": "Red3",
     "hex": "#af0000",
     "rgb": {
-      "r": 175,
-      "g": 0,
-      "b": 0
+      "red": 175,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 34
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -1879,14 +1879,14 @@
     "name": "DeepPink4",
     "hex": "#af005f",
     "rgb": {
-      "r": 175,
-      "g": 0,
-      "b": 95
+      "red": 175,
+      "green": 0,
+      "blue": 95
     },
     "hsl": {
-      "h": 327.428571428571,
-      "s": 100,
-      "l": 34
+      "hue": 327.428571428571,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -1894,14 +1894,14 @@
     "name": "MediumVioletRed",
     "hex": "#af0087",
     "rgb": {
-      "r": 175,
-      "g": 0,
-      "b": 135
+      "red": 175,
+      "green": 0,
+      "blue": 135
     },
     "hsl": {
-      "h": 313.714285714286,
-      "s": 100,
-      "l": 34
+      "hue": 313.714285714286,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -1909,14 +1909,14 @@
     "name": "Magenta3",
     "hex": "#af00af",
     "rgb": {
-      "r": 175,
-      "g": 0,
-      "b": 175
+      "red": 175,
+      "green": 0,
+      "blue": 175
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 34
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -1924,14 +1924,14 @@
     "name": "DarkViolet",
     "hex": "#af00d7",
     "rgb": {
-      "r": 175,
-      "g": 0,
-      "b": 215
+      "red": 175,
+      "green": 0,
+      "blue": 215
     },
     "hsl": {
-      "h": 288.837209302326,
-      "s": 100,
-      "l": 42
+      "hue": 288.837209302326,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -1939,14 +1939,14 @@
     "name": "Purple",
     "hex": "#af00ff",
     "rgb": {
-      "r": 175,
-      "g": 0,
-      "b": 255
+      "red": 175,
+      "green": 0,
+      "blue": 255
     },
     "hsl": {
-      "h": 281.176470588235,
-      "s": 100,
-      "l": 50
+      "hue": 281.176470588235,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -1954,14 +1954,14 @@
     "name": "DarkOrange3",
     "hex": "#af5f00",
     "rgb": {
-      "r": 175,
-      "g": 95,
-      "b": 0
+      "red": 175,
+      "green": 95,
+      "blue": 0
     },
     "hsl": {
-      "h": 32.5714285714286,
-      "s": 100,
-      "l": 34
+      "hue": 32.5714285714286,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -1969,14 +1969,14 @@
     "name": "IndianRed",
     "hex": "#af5f5f",
     "rgb": {
-      "r": 175,
-      "g": 95,
-      "b": 95
+      "red": 175,
+      "green": 95,
+      "blue": 95
     },
     "hsl": {
-      "h": 0,
-      "s": 33,
-      "l": 52
+      "hue": 0,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -1984,14 +1984,14 @@
     "name": "HotPink3",
     "hex": "#af5f87",
     "rgb": {
-      "r": 175,
-      "g": 95,
-      "b": 135
+      "red": 175,
+      "green": 95,
+      "blue": 135
     },
     "hsl": {
-      "h": 330,
-      "s": 33,
-      "l": 52
+      "hue": 330,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -1999,14 +1999,14 @@
     "name": "MediumOrchid3",
     "hex": "#af5faf",
     "rgb": {
-      "r": 175,
-      "g": 95,
-      "b": 175
+      "red": 175,
+      "green": 95,
+      "blue": 175
     },
     "hsl": {
-      "h": 300,
-      "s": 33,
-      "l": 52
+      "hue": 300,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -2014,14 +2014,14 @@
     "name": "MediumOrchid",
     "hex": "#af5fd7",
     "rgb": {
-      "r": 175,
-      "g": 95,
-      "b": 215
+      "red": 175,
+      "green": 95,
+      "blue": 215
     },
     "hsl": {
-      "h": 280,
-      "s": 60,
-      "l": 60
+      "hue": 280,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2029,14 +2029,14 @@
     "name": "MediumPurple2",
     "hex": "#af5fff",
     "rgb": {
-      "r": 175,
-      "g": 95,
-      "b": 255
+      "red": 175,
+      "green": 95,
+      "blue": 255
     },
     "hsl": {
-      "h": 270,
-      "s": 100,
-      "l": 68
+      "hue": 270,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -2044,14 +2044,14 @@
     "name": "DarkGoldenrod",
     "hex": "#af8700",
     "rgb": {
-      "r": 175,
-      "g": 135,
-      "b": 0
+      "red": 175,
+      "green": 135,
+      "blue": 0
     },
     "hsl": {
-      "h": 46.2857142857143,
-      "s": 100,
-      "l": 34
+      "hue": 46.2857142857143,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -2059,14 +2059,14 @@
     "name": "LightSalmon3",
     "hex": "#af875f",
     "rgb": {
-      "r": 175,
-      "g": 135,
-      "b": 95
+      "red": 175,
+      "green": 135,
+      "blue": 95
     },
     "hsl": {
-      "h": 30,
-      "s": 33,
-      "l": 52
+      "hue": 30,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -2074,14 +2074,14 @@
     "name": "RosyBrown",
     "hex": "#af8787",
     "rgb": {
-      "r": 175,
-      "g": 135,
-      "b": 135
+      "red": 175,
+      "green": 135,
+      "blue": 135
     },
     "hsl": {
-      "h": 0,
-      "s": 20,
-      "l": 60
+      "hue": 0,
+      "saturation": 20,
+      "lightness": 60
     }
   },
   {
@@ -2089,14 +2089,14 @@
     "name": "Grey63",
     "hex": "#af87af",
     "rgb": {
-      "r": 175,
-      "g": 135,
-      "b": 175
+      "red": 175,
+      "green": 135,
+      "blue": 175
     },
     "hsl": {
-      "h": 300,
-      "s": 20,
-      "l": 60
+      "hue": 300,
+      "saturation": 20,
+      "lightness": 60
     }
   },
   {
@@ -2104,14 +2104,14 @@
     "name": "MediumPurple2",
     "hex": "#af87d7",
     "rgb": {
-      "r": 175,
-      "g": 135,
-      "b": 215
+      "red": 175,
+      "green": 135,
+      "blue": 215
     },
     "hsl": {
-      "h": 270,
-      "s": 50,
-      "l": 68
+      "hue": 270,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -2119,14 +2119,14 @@
     "name": "MediumPurple1",
     "hex": "#af87ff",
     "rgb": {
-      "r": 175,
-      "g": 135,
-      "b": 255
+      "red": 175,
+      "green": 135,
+      "blue": 255
     },
     "hsl": {
-      "h": 260,
-      "s": 100,
-      "l": 76
+      "hue": 260,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -2134,14 +2134,14 @@
     "name": "Gold3",
     "hex": "#afaf00",
     "rgb": {
-      "r": 175,
-      "g": 175,
-      "b": 0
+      "red": 175,
+      "green": 175,
+      "blue": 0
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 34
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 34
     }
   },
   {
@@ -2149,14 +2149,14 @@
     "name": "DarkKhaki",
     "hex": "#afaf5f",
     "rgb": {
-      "r": 175,
-      "g": 175,
-      "b": 95
+      "red": 175,
+      "green": 175,
+      "blue": 95
     },
     "hsl": {
-      "h": 60,
-      "s": 33,
-      "l": 52
+      "hue": 60,
+      "saturation": 33,
+      "lightness": 52
     }
   },
   {
@@ -2164,14 +2164,14 @@
     "name": "NavajoWhite3",
     "hex": "#afaf87",
     "rgb": {
-      "r": 175,
-      "g": 175,
-      "b": 135
+      "red": 175,
+      "green": 175,
+      "blue": 135
     },
     "hsl": {
-      "h": 60,
-      "s": 20,
-      "l": 60
+      "hue": 60,
+      "saturation": 20,
+      "lightness": 60
     }
   },
   {
@@ -2179,14 +2179,14 @@
     "name": "Grey69",
     "hex": "#afafaf",
     "rgb": {
-      "r": 175,
-      "g": 175,
-      "b": 175
+      "red": 175,
+      "green": 175,
+      "blue": 175
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 68
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 68
     }
   },
   {
@@ -2194,14 +2194,14 @@
     "name": "LightSteelBlue3",
     "hex": "#afafd7",
     "rgb": {
-      "r": 175,
-      "g": 175,
-      "b": 215
+      "red": 175,
+      "green": 175,
+      "blue": 215
     },
     "hsl": {
-      "h": 240,
-      "s": 33,
-      "l": 76
+      "hue": 240,
+      "saturation": 33,
+      "lightness": 76
     }
   },
   {
@@ -2209,14 +2209,14 @@
     "name": "LightSteelBlue",
     "hex": "#afafff",
     "rgb": {
-      "r": 175,
-      "g": 175,
-      "b": 255
+      "red": 175,
+      "green": 175,
+      "blue": 255
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 84
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -2224,14 +2224,14 @@
     "name": "Yellow3",
     "hex": "#afd700",
     "rgb": {
-      "r": 175,
-      "g": 215,
-      "b": 0
+      "red": 175,
+      "green": 215,
+      "blue": 0
     },
     "hsl": {
-      "h": 71.1627906976744,
-      "s": 100,
-      "l": 42
+      "hue": 71.1627906976744,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2239,14 +2239,14 @@
     "name": "DarkOliveGreen3",
     "hex": "#afd75f",
     "rgb": {
-      "r": 175,
-      "g": 215,
-      "b": 95
+      "red": 175,
+      "green": 215,
+      "blue": 95
     },
     "hsl": {
-      "h": 80,
-      "s": 60,
-      "l": 60
+      "hue": 80,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2254,14 +2254,14 @@
     "name": "DarkSeaGreen3",
     "hex": "#afd787",
     "rgb": {
-      "r": 175,
-      "g": 215,
-      "b": 135
+      "red": 175,
+      "green": 215,
+      "blue": 135
     },
     "hsl": {
-      "h": 90,
-      "s": 50,
-      "l": 68
+      "hue": 90,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -2269,14 +2269,14 @@
     "name": "DarkSeaGreen2",
     "hex": "#afd7af",
     "rgb": {
-      "r": 175,
-      "g": 215,
-      "b": 175
+      "red": 175,
+      "green": 215,
+      "blue": 175
     },
     "hsl": {
-      "h": 120,
-      "s": 33,
-      "l": 76
+      "hue": 120,
+      "saturation": 33,
+      "lightness": 76
     }
   },
   {
@@ -2284,14 +2284,14 @@
     "name": "LightCyan3",
     "hex": "#afd7d7",
     "rgb": {
-      "r": 175,
-      "g": 215,
-      "b": 215
+      "red": 175,
+      "green": 215,
+      "blue": 215
     },
     "hsl": {
-      "h": 180,
-      "s": 33,
-      "l": 76
+      "hue": 180,
+      "saturation": 33,
+      "lightness": 76
     }
   },
   {
@@ -2299,14 +2299,14 @@
     "name": "LightSkyBlue1",
     "hex": "#afd7ff",
     "rgb": {
-      "r": 175,
-      "g": 215,
-      "b": 255
+      "red": 175,
+      "green": 215,
+      "blue": 255
     },
     "hsl": {
-      "h": 210,
-      "s": 100,
-      "l": 84
+      "hue": 210,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -2314,14 +2314,14 @@
     "name": "GreenYellow",
     "hex": "#afff00",
     "rgb": {
-      "r": 175,
-      "g": 255,
-      "b": 0
+      "red": 175,
+      "green": 255,
+      "blue": 0
     },
     "hsl": {
-      "h": 78.8235294117647,
-      "s": 100,
-      "l": 50
+      "hue": 78.8235294117647,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -2329,14 +2329,14 @@
     "name": "DarkOliveGreen2",
     "hex": "#afff5f",
     "rgb": {
-      "r": 175,
-      "g": 255,
-      "b": 95
+      "red": 175,
+      "green": 255,
+      "blue": 95
     },
     "hsl": {
-      "h": 90,
-      "s": 100,
-      "l": 68
+      "hue": 90,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -2344,14 +2344,14 @@
     "name": "PaleGreen1",
     "hex": "#afff87",
     "rgb": {
-      "r": 175,
-      "g": 255,
-      "b": 135
+      "red": 175,
+      "green": 255,
+      "blue": 135
     },
     "hsl": {
-      "h": 100,
-      "s": 100,
-      "l": 76
+      "hue": 100,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -2359,14 +2359,14 @@
     "name": "DarkSeaGreen2",
     "hex": "#afffaf",
     "rgb": {
-      "r": 175,
-      "g": 255,
-      "b": 175
+      "red": 175,
+      "green": 255,
+      "blue": 175
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 84
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -2374,14 +2374,14 @@
     "name": "DarkSeaGreen1",
     "hex": "#afffd7",
     "rgb": {
-      "r": 175,
-      "g": 255,
-      "b": 215
+      "red": 175,
+      "green": 255,
+      "blue": 215
     },
     "hsl": {
-      "h": 150,
-      "s": 100,
-      "l": 84
+      "hue": 150,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -2389,14 +2389,14 @@
     "name": "PaleTurquoise1",
     "hex": "#afffff",
     "rgb": {
-      "r": 175,
-      "g": 255,
-      "b": 255
+      "red": 175,
+      "green": 255,
+      "blue": 255
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 84
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -2404,14 +2404,14 @@
     "name": "Red3",
     "hex": "#d70000",
     "rgb": {
-      "r": 215,
-      "g": 0,
-      "b": 0
+      "red": 215,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 42
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2419,14 +2419,14 @@
     "name": "DeepPink3",
     "hex": "#d7005f",
     "rgb": {
-      "r": 215,
-      "g": 0,
-      "b": 95
+      "red": 215,
+      "green": 0,
+      "blue": 95
     },
     "hsl": {
-      "h": 333.488372093023,
-      "s": 100,
-      "l": 42
+      "hue": 333.488372093023,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2434,14 +2434,14 @@
     "name": "DeepPink3",
     "hex": "#d70087",
     "rgb": {
-      "r": 215,
-      "g": 0,
-      "b": 135
+      "red": 215,
+      "green": 0,
+      "blue": 135
     },
     "hsl": {
-      "h": 322.325581395349,
-      "s": 100,
-      "l": 42
+      "hue": 322.325581395349,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2449,14 +2449,14 @@
     "name": "Magenta3",
     "hex": "#d700af",
     "rgb": {
-      "r": 215,
-      "g": 0,
-      "b": 175
+      "red": 215,
+      "green": 0,
+      "blue": 175
     },
     "hsl": {
-      "h": 311.162790697674,
-      "s": 100,
-      "l": 42
+      "hue": 311.162790697674,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2464,14 +2464,14 @@
     "name": "Magenta3",
     "hex": "#d700d7",
     "rgb": {
-      "r": 215,
-      "g": 0,
-      "b": 215
+      "red": 215,
+      "green": 0,
+      "blue": 215
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 42
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2479,14 +2479,14 @@
     "name": "Magenta2",
     "hex": "#d700ff",
     "rgb": {
-      "r": 215,
-      "g": 0,
-      "b": 255
+      "red": 215,
+      "green": 0,
+      "blue": 255
     },
     "hsl": {
-      "h": 290.588235294118,
-      "s": 100,
-      "l": 50
+      "hue": 290.588235294118,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -2494,14 +2494,14 @@
     "name": "DarkOrange3",
     "hex": "#d75f00",
     "rgb": {
-      "r": 215,
-      "g": 95,
-      "b": 0
+      "red": 215,
+      "green": 95,
+      "blue": 0
     },
     "hsl": {
-      "h": 26.5116279069767,
-      "s": 100,
-      "l": 42
+      "hue": 26.5116279069767,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2509,14 +2509,14 @@
     "name": "IndianRed",
     "hex": "#d75f5f",
     "rgb": {
-      "r": 215,
-      "g": 95,
-      "b": 95
+      "red": 215,
+      "green": 95,
+      "blue": 95
     },
     "hsl": {
-      "h": 0,
-      "s": 60,
-      "l": 60
+      "hue": 0,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2524,14 +2524,14 @@
     "name": "HotPink3",
     "hex": "#d75f87",
     "rgb": {
-      "r": 215,
-      "g": 95,
-      "b": 135
+      "red": 215,
+      "green": 95,
+      "blue": 135
     },
     "hsl": {
-      "h": 340,
-      "s": 60,
-      "l": 60
+      "hue": 340,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2539,14 +2539,14 @@
     "name": "HotPink2",
     "hex": "#d75faf",
     "rgb": {
-      "r": 215,
-      "g": 95,
-      "b": 175
+      "red": 215,
+      "green": 95,
+      "blue": 175
     },
     "hsl": {
-      "h": 320,
-      "s": 60,
-      "l": 60
+      "hue": 320,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2554,14 +2554,14 @@
     "name": "Orchid",
     "hex": "#d75fd7",
     "rgb": {
-      "r": 215,
-      "g": 95,
-      "b": 215
+      "red": 215,
+      "green": 95,
+      "blue": 215
     },
     "hsl": {
-      "h": 300,
-      "s": 60,
-      "l": 60
+      "hue": 300,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2569,14 +2569,14 @@
     "name": "MediumOrchid1",
     "hex": "#d75fff",
     "rgb": {
-      "r": 215,
-      "g": 95,
-      "b": 255
+      "red": 215,
+      "green": 95,
+      "blue": 255
     },
     "hsl": {
-      "h": 285,
-      "s": 100,
-      "l": 68
+      "hue": 285,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -2584,14 +2584,14 @@
     "name": "Orange3",
     "hex": "#d78700",
     "rgb": {
-      "r": 215,
-      "g": 135,
-      "b": 0
+      "red": 215,
+      "green": 135,
+      "blue": 0
     },
     "hsl": {
-      "h": 37.6744186046512,
-      "s": 100,
-      "l": 42
+      "hue": 37.6744186046512,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2599,14 +2599,14 @@
     "name": "LightSalmon3",
     "hex": "#d7875f",
     "rgb": {
-      "r": 215,
-      "g": 135,
-      "b": 95
+      "red": 215,
+      "green": 135,
+      "blue": 95
     },
     "hsl": {
-      "h": 20,
-      "s": 60,
-      "l": 60
+      "hue": 20,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2614,14 +2614,14 @@
     "name": "LightPink3",
     "hex": "#d78787",
     "rgb": {
-      "r": 215,
-      "g": 135,
-      "b": 135
+      "red": 215,
+      "green": 135,
+      "blue": 135
     },
     "hsl": {
-      "h": 0,
-      "s": 50,
-      "l": 68
+      "hue": 0,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -2629,14 +2629,14 @@
     "name": "Pink3",
     "hex": "#d787af",
     "rgb": {
-      "r": 215,
-      "g": 135,
-      "b": 175
+      "red": 215,
+      "green": 135,
+      "blue": 175
     },
     "hsl": {
-      "h": 330,
-      "s": 50,
-      "l": 68
+      "hue": 330,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -2644,14 +2644,14 @@
     "name": "Plum3",
     "hex": "#d787d7",
     "rgb": {
-      "r": 215,
-      "g": 135,
-      "b": 215
+      "red": 215,
+      "green": 135,
+      "blue": 215
     },
     "hsl": {
-      "h": 300,
-      "s": 50,
-      "l": 68
+      "hue": 300,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -2659,14 +2659,14 @@
     "name": "Violet",
     "hex": "#d787ff",
     "rgb": {
-      "r": 215,
-      "g": 135,
-      "b": 255
+      "red": 215,
+      "green": 135,
+      "blue": 255
     },
     "hsl": {
-      "h": 280,
-      "s": 100,
-      "l": 76
+      "hue": 280,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -2674,14 +2674,14 @@
     "name": "Gold3",
     "hex": "#d7af00",
     "rgb": {
-      "r": 215,
-      "g": 175,
-      "b": 0
+      "red": 215,
+      "green": 175,
+      "blue": 0
     },
     "hsl": {
-      "h": 48.8372093023256,
-      "s": 100,
-      "l": 42
+      "hue": 48.8372093023256,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2689,14 +2689,14 @@
     "name": "LightGoldenrod3",
     "hex": "#d7af5f",
     "rgb": {
-      "r": 215,
-      "g": 175,
-      "b": 95
+      "red": 215,
+      "green": 175,
+      "blue": 95
     },
     "hsl": {
-      "h": 40,
-      "s": 60,
-      "l": 60
+      "hue": 40,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2704,14 +2704,14 @@
     "name": "Tan",
     "hex": "#d7af87",
     "rgb": {
-      "r": 215,
-      "g": 175,
-      "b": 135
+      "red": 215,
+      "green": 175,
+      "blue": 135
     },
     "hsl": {
-      "h": 30,
-      "s": 50,
-      "l": 68
+      "hue": 30,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -2719,14 +2719,14 @@
     "name": "MistyRose3",
     "hex": "#d7afaf",
     "rgb": {
-      "r": 215,
-      "g": 175,
-      "b": 175
+      "red": 215,
+      "green": 175,
+      "blue": 175
     },
     "hsl": {
-      "h": 0,
-      "s": 33,
-      "l": 76
+      "hue": 0,
+      "saturation": 33,
+      "lightness": 76
     }
   },
   {
@@ -2734,14 +2734,14 @@
     "name": "Thistle3",
     "hex": "#d7afd7",
     "rgb": {
-      "r": 215,
-      "g": 175,
-      "b": 215
+      "red": 215,
+      "green": 175,
+      "blue": 215
     },
     "hsl": {
-      "h": 300,
-      "s": 33,
-      "l": 76
+      "hue": 300,
+      "saturation": 33,
+      "lightness": 76
     }
   },
   {
@@ -2749,14 +2749,14 @@
     "name": "Plum2",
     "hex": "#d7afff",
     "rgb": {
-      "r": 215,
-      "g": 175,
-      "b": 255
+      "red": 215,
+      "green": 175,
+      "blue": 255
     },
     "hsl": {
-      "h": 270,
-      "s": 100,
-      "l": 84
+      "hue": 270,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -2764,14 +2764,14 @@
     "name": "Yellow3",
     "hex": "#d7d700",
     "rgb": {
-      "r": 215,
-      "g": 215,
-      "b": 0
+      "red": 215,
+      "green": 215,
+      "blue": 0
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 42
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 42
     }
   },
   {
@@ -2779,14 +2779,14 @@
     "name": "Khaki3",
     "hex": "#d7d75f",
     "rgb": {
-      "r": 215,
-      "g": 215,
-      "b": 95
+      "red": 215,
+      "green": 215,
+      "blue": 95
     },
     "hsl": {
-      "h": 60,
-      "s": 60,
-      "l": 60
+      "hue": 60,
+      "saturation": 60,
+      "lightness": 60
     }
   },
   {
@@ -2794,14 +2794,14 @@
     "name": "LightGoldenrod2",
     "hex": "#d7d787",
     "rgb": {
-      "r": 215,
-      "g": 215,
-      "b": 135
+      "red": 215,
+      "green": 215,
+      "blue": 135
     },
     "hsl": {
-      "h": 60,
-      "s": 50,
-      "l": 68
+      "hue": 60,
+      "saturation": 50,
+      "lightness": 68
     }
   },
   {
@@ -2809,14 +2809,14 @@
     "name": "LightYellow3",
     "hex": "#d7d7af",
     "rgb": {
-      "r": 215,
-      "g": 215,
-      "b": 175
+      "red": 215,
+      "green": 215,
+      "blue": 175
     },
     "hsl": {
-      "h": 60,
-      "s": 33,
-      "l": 76
+      "hue": 60,
+      "saturation": 33,
+      "lightness": 76
     }
   },
   {
@@ -2824,14 +2824,14 @@
     "name": "Grey84",
     "hex": "#d7d7d7",
     "rgb": {
-      "r": 215,
-      "g": 215,
-      "b": 215
+      "red": 215,
+      "green": 215,
+      "blue": 215
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 84
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 84
     }
   },
   {
@@ -2839,14 +2839,14 @@
     "name": "LightSteelBlue1",
     "hex": "#d7d7ff",
     "rgb": {
-      "r": 215,
-      "g": 215,
-      "b": 255
+      "red": 215,
+      "green": 215,
+      "blue": 255
     },
     "hsl": {
-      "h": 240,
-      "s": 100,
-      "l": 92
+      "hue": 240,
+      "saturation": 100,
+      "lightness": 92
     }
   },
   {
@@ -2854,14 +2854,14 @@
     "name": "Yellow2",
     "hex": "#d7ff00",
     "rgb": {
-      "r": 215,
-      "g": 255,
-      "b": 0
+      "red": 215,
+      "green": 255,
+      "blue": 0
     },
     "hsl": {
-      "h": 69.4117647058823,
-      "s": 100,
-      "l": 50
+      "hue": 69.4117647058823,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -2869,14 +2869,14 @@
     "name": "DarkOliveGreen1",
     "hex": "#d7ff5f",
     "rgb": {
-      "r": 215,
-      "g": 255,
-      "b": 95
+      "red": 215,
+      "green": 255,
+      "blue": 95
     },
     "hsl": {
-      "h": 75,
-      "s": 100,
-      "l": 68
+      "hue": 75,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -2884,14 +2884,14 @@
     "name": "DarkOliveGreen1",
     "hex": "#d7ff87",
     "rgb": {
-      "r": 215,
-      "g": 255,
-      "b": 135
+      "red": 215,
+      "green": 255,
+      "blue": 135
     },
     "hsl": {
-      "h": 80,
-      "s": 100,
-      "l": 76
+      "hue": 80,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -2899,14 +2899,14 @@
     "name": "DarkSeaGreen1",
     "hex": "#d7ffaf",
     "rgb": {
-      "r": 215,
-      "g": 255,
-      "b": 175
+      "red": 215,
+      "green": 255,
+      "blue": 175
     },
     "hsl": {
-      "h": 90,
-      "s": 100,
-      "l": 84
+      "hue": 90,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -2914,14 +2914,14 @@
     "name": "Honeydew2",
     "hex": "#d7ffd7",
     "rgb": {
-      "r": 215,
-      "g": 255,
-      "b": 215
+      "red": 215,
+      "green": 255,
+      "blue": 215
     },
     "hsl": {
-      "h": 120,
-      "s": 100,
-      "l": 92
+      "hue": 120,
+      "saturation": 100,
+      "lightness": 92
     }
   },
   {
@@ -2929,14 +2929,14 @@
     "name": "LightCyan1",
     "hex": "#d7ffff",
     "rgb": {
-      "r": 215,
-      "g": 255,
-      "b": 255
+      "red": 215,
+      "green": 255,
+      "blue": 255
     },
     "hsl": {
-      "h": 180,
-      "s": 100,
-      "l": 92
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 92
     }
   },
   {
@@ -2944,14 +2944,14 @@
     "name": "Red1",
     "hex": "#ff0000",
     "rgb": {
-      "r": 255,
-      "g": 0,
-      "b": 0
+      "red": 255,
+      "green": 0,
+      "blue": 0
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 50
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -2959,14 +2959,14 @@
     "name": "DeepPink2",
     "hex": "#ff005f",
     "rgb": {
-      "r": 255,
-      "g": 0,
-      "b": 95
+      "red": 255,
+      "green": 0,
+      "blue": 95
     },
     "hsl": {
-      "h": 337.647058823529,
-      "s": 100,
-      "l": 50
+      "hue": 337.647058823529,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -2974,14 +2974,14 @@
     "name": "DeepPink1",
     "hex": "#ff0087",
     "rgb": {
-      "r": 255,
-      "g": 0,
-      "b": 135
+      "red": 255,
+      "green": 0,
+      "blue": 135
     },
     "hsl": {
-      "h": 328.235294117647,
-      "s": 100,
-      "l": 50
+      "hue": 328.235294117647,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -2989,14 +2989,14 @@
     "name": "DeepPink1",
     "hex": "#ff00af",
     "rgb": {
-      "r": 255,
-      "g": 0,
-      "b": 175
+      "red": 255,
+      "green": 0,
+      "blue": 175
     },
     "hsl": {
-      "h": 318.823529411765,
-      "s": 100,
-      "l": 50
+      "hue": 318.823529411765,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -3004,14 +3004,14 @@
     "name": "Magenta2",
     "hex": "#ff00d7",
     "rgb": {
-      "r": 255,
-      "g": 0,
-      "b": 215
+      "red": 255,
+      "green": 0,
+      "blue": 215
     },
     "hsl": {
-      "h": 309.411764705882,
-      "s": 100,
-      "l": 50
+      "hue": 309.411764705882,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -3019,14 +3019,14 @@
     "name": "Magenta1",
     "hex": "#ff00ff",
     "rgb": {
-      "r": 255,
-      "g": 0,
-      "b": 255
+      "red": 255,
+      "green": 0,
+      "blue": 255
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 50
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -3034,14 +3034,14 @@
     "name": "OrangeRed1",
     "hex": "#ff5f00",
     "rgb": {
-      "r": 255,
-      "g": 95,
-      "b": 0
+      "red": 255,
+      "green": 95,
+      "blue": 0
     },
     "hsl": {
-      "h": 22.3529411764706,
-      "s": 100,
-      "l": 50
+      "hue": 22.3529411764706,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -3049,14 +3049,14 @@
     "name": "IndianRed1",
     "hex": "#ff5f5f",
     "rgb": {
-      "r": 255,
-      "g": 95,
-      "b": 95
+      "red": 255,
+      "green": 95,
+      "blue": 95
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 68
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3064,14 +3064,14 @@
     "name": "IndianRed1",
     "hex": "#ff5f87",
     "rgb": {
-      "r": 255,
-      "g": 95,
-      "b": 135
+      "red": 255,
+      "green": 95,
+      "blue": 135
     },
     "hsl": {
-      "h": 345,
-      "s": 100,
-      "l": 68
+      "hue": 345,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3079,14 +3079,14 @@
     "name": "HotPink",
     "hex": "#ff5faf",
     "rgb": {
-      "r": 255,
-      "g": 95,
-      "b": 175
+      "red": 255,
+      "green": 95,
+      "blue": 175
     },
     "hsl": {
-      "h": 330,
-      "s": 100,
-      "l": 68
+      "hue": 330,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3094,14 +3094,14 @@
     "name": "HotPink",
     "hex": "#ff5fd7",
     "rgb": {
-      "r": 255,
-      "g": 95,
-      "b": 215
+      "red": 255,
+      "green": 95,
+      "blue": 215
     },
     "hsl": {
-      "h": 315,
-      "s": 100,
-      "l": 68
+      "hue": 315,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3109,14 +3109,14 @@
     "name": "MediumOrchid1",
     "hex": "#ff5fff",
     "rgb": {
-      "r": 255,
-      "g": 95,
-      "b": 255
+      "red": 255,
+      "green": 95,
+      "blue": 255
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 68
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3124,14 +3124,14 @@
     "name": "DarkOrange",
     "hex": "#ff8700",
     "rgb": {
-      "r": 255,
-      "g": 135,
-      "b": 0
+      "red": 255,
+      "green": 135,
+      "blue": 0
     },
     "hsl": {
-      "h": 31.7647058823529,
-      "s": 100,
-      "l": 50
+      "hue": 31.7647058823529,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -3139,14 +3139,14 @@
     "name": "Salmon1",
     "hex": "#ff875f",
     "rgb": {
-      "r": 255,
-      "g": 135,
-      "b": 95
+      "red": 255,
+      "green": 135,
+      "blue": 95
     },
     "hsl": {
-      "h": 15,
-      "s": 100,
-      "l": 68
+      "hue": 15,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3154,14 +3154,14 @@
     "name": "LightCoral",
     "hex": "#ff8787",
     "rgb": {
-      "r": 255,
-      "g": 135,
-      "b": 135
+      "red": 255,
+      "green": 135,
+      "blue": 135
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 76
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -3169,14 +3169,14 @@
     "name": "PaleVioletRed1",
     "hex": "#ff87af",
     "rgb": {
-      "r": 255,
-      "g": 135,
-      "b": 175
+      "red": 255,
+      "green": 135,
+      "blue": 175
     },
     "hsl": {
-      "h": 340,
-      "s": 100,
-      "l": 76
+      "hue": 340,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -3184,14 +3184,14 @@
     "name": "Orchid2",
     "hex": "#ff87d7",
     "rgb": {
-      "r": 255,
-      "g": 135,
-      "b": 215
+      "red": 255,
+      "green": 135,
+      "blue": 215
     },
     "hsl": {
-      "h": 320,
-      "s": 100,
-      "l": 76
+      "hue": 320,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -3199,14 +3199,14 @@
     "name": "Orchid1",
     "hex": "#ff87ff",
     "rgb": {
-      "r": 255,
-      "g": 135,
-      "b": 255
+      "red": 255,
+      "green": 135,
+      "blue": 255
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 76
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -3214,14 +3214,14 @@
     "name": "Orange1",
     "hex": "#ffaf00",
     "rgb": {
-      "r": 255,
-      "g": 175,
-      "b": 0
+      "red": 255,
+      "green": 175,
+      "blue": 0
     },
     "hsl": {
-      "h": 41.1764705882353,
-      "s": 100,
-      "l": 50
+      "hue": 41.1764705882353,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -3229,14 +3229,14 @@
     "name": "SandyBrown",
     "hex": "#ffaf5f",
     "rgb": {
-      "r": 255,
-      "g": 175,
-      "b": 95
+      "red": 255,
+      "green": 175,
+      "blue": 95
     },
     "hsl": {
-      "h": 30,
-      "s": 100,
-      "l": 68
+      "hue": 30,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3244,14 +3244,14 @@
     "name": "LightSalmon1",
     "hex": "#ffaf87",
     "rgb": {
-      "r": 255,
-      "g": 175,
-      "b": 135
+      "red": 255,
+      "green": 175,
+      "blue": 135
     },
     "hsl": {
-      "h": 20,
-      "s": 100,
-      "l": 76
+      "hue": 20,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -3259,14 +3259,14 @@
     "name": "LightPink1",
     "hex": "#ffafaf",
     "rgb": {
-      "r": 255,
-      "g": 175,
-      "b": 175
+      "red": 255,
+      "green": 175,
+      "blue": 175
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 84
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -3274,14 +3274,14 @@
     "name": "Pink1",
     "hex": "#ffafd7",
     "rgb": {
-      "r": 255,
-      "g": 175,
-      "b": 215
+      "red": 255,
+      "green": 175,
+      "blue": 215
     },
     "hsl": {
-      "h": 330,
-      "s": 100,
-      "l": 84
+      "hue": 330,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -3289,14 +3289,14 @@
     "name": "Plum1",
     "hex": "#ffafff",
     "rgb": {
-      "r": 255,
-      "g": 175,
-      "b": 255
+      "red": 255,
+      "green": 175,
+      "blue": 255
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 84
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -3304,14 +3304,14 @@
     "name": "Gold1",
     "hex": "#ffd700",
     "rgb": {
-      "r": 255,
-      "g": 215,
-      "b": 0
+      "red": 255,
+      "green": 215,
+      "blue": 0
     },
     "hsl": {
-      "h": 50.5882352941176,
-      "s": 100,
-      "l": 50
+      "hue": 50.5882352941176,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -3319,14 +3319,14 @@
     "name": "LightGoldenrod2",
     "hex": "#ffd75f",
     "rgb": {
-      "r": 255,
-      "g": 215,
-      "b": 95
+      "red": 255,
+      "green": 215,
+      "blue": 95
     },
     "hsl": {
-      "h": 45,
-      "s": 100,
-      "l": 68
+      "hue": 45,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3334,14 +3334,14 @@
     "name": "LightGoldenrod2",
     "hex": "#ffd787",
     "rgb": {
-      "r": 255,
-      "g": 215,
-      "b": 135
+      "red": 255,
+      "green": 215,
+      "blue": 135
     },
     "hsl": {
-      "h": 40,
-      "s": 100,
-      "l": 76
+      "hue": 40,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -3349,14 +3349,14 @@
     "name": "NavajoWhite1",
     "hex": "#ffd7af",
     "rgb": {
-      "r": 255,
-      "g": 215,
-      "b": 175
+      "red": 255,
+      "green": 215,
+      "blue": 175
     },
     "hsl": {
-      "h": 30,
-      "s": 100,
-      "l": 84
+      "hue": 30,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -3364,14 +3364,14 @@
     "name": "MistyRose1",
     "hex": "#ffd7d7",
     "rgb": {
-      "r": 255,
-      "g": 215,
-      "b": 215
+      "red": 255,
+      "green": 215,
+      "blue": 215
     },
     "hsl": {
-      "h": 0,
-      "s": 100,
-      "l": 92
+      "hue": 0,
+      "saturation": 100,
+      "lightness": 92
     }
   },
   {
@@ -3379,14 +3379,14 @@
     "name": "Thistle1",
     "hex": "#ffd7ff",
     "rgb": {
-      "r": 255,
-      "g": 215,
-      "b": 255
+      "red": 255,
+      "green": 215,
+      "blue": 255
     },
     "hsl": {
-      "h": 300,
-      "s": 100,
-      "l": 92
+      "hue": 300,
+      "saturation": 100,
+      "lightness": 92
     }
   },
   {
@@ -3394,14 +3394,14 @@
     "name": "Yellow1",
     "hex": "#ffff00",
     "rgb": {
-      "r": 255,
-      "g": 255,
-      "b": 0
+      "red": 255,
+      "green": 255,
+      "blue": 0
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 50
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 50
     }
   },
   {
@@ -3409,14 +3409,14 @@
     "name": "LightGoldenrod1",
     "hex": "#ffff5f",
     "rgb": {
-      "r": 255,
-      "g": 255,
-      "b": 95
+      "red": 255,
+      "green": 255,
+      "blue": 95
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 68
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 68
     }
   },
   {
@@ -3424,14 +3424,14 @@
     "name": "Khaki1",
     "hex": "#ffff87",
     "rgb": {
-      "r": 255,
-      "g": 255,
-      "b": 135
+      "red": 255,
+      "green": 255,
+      "blue": 135
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 76
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 76
     }
   },
   {
@@ -3439,14 +3439,14 @@
     "name": "Wheat1",
     "hex": "#ffffaf",
     "rgb": {
-      "r": 255,
-      "g": 255,
-      "b": 175
+      "red": 255,
+      "green": 255,
+      "blue": 175
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 84
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 84
     }
   },
   {
@@ -3454,14 +3454,14 @@
     "name": "Cornsilk1",
     "hex": "#ffffd7",
     "rgb": {
-      "r": 255,
-      "g": 255,
-      "b": 215
+      "red": 255,
+      "green": 255,
+      "blue": 215
     },
     "hsl": {
-      "h": 60,
-      "s": 100,
-      "l": 92
+      "hue": 60,
+      "saturation": 100,
+      "lightness": 92
     }
   },
   {
@@ -3469,14 +3469,14 @@
     "name": "Grey100",
     "hex": "#ffffff",
     "rgb": {
-      "r": 255,
-      "g": 255,
-      "b": 255
+      "red": 255,
+      "green": 255,
+      "blue": 255
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 100
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 100
     }
   },
   {
@@ -3484,14 +3484,14 @@
     "name": "Grey3",
     "hex": "#080808",
     "rgb": {
-      "r": 8,
-      "g": 8,
-      "b": 8
+      "red": 8,
+      "green": 8,
+      "blue": 8
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 3
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 3
     }
   },
   {
@@ -3499,14 +3499,14 @@
     "name": "Grey7",
     "hex": "#121212",
     "rgb": {
-      "r": 18,
-      "g": 18,
-      "b": 18
+      "red": 18,
+      "green": 18,
+      "blue": 18
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 7
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 7
     }
   },
   {
@@ -3514,14 +3514,14 @@
     "name": "Grey11",
     "hex": "#1c1c1c",
     "rgb": {
-      "r": 28,
-      "g": 28,
-      "b": 28
+      "red": 28,
+      "green": 28,
+      "blue": 28
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 10
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 10
     }
   },
   {
@@ -3529,14 +3529,14 @@
     "name": "Grey15",
     "hex": "#262626",
     "rgb": {
-      "r": 38,
-      "g": 38,
-      "b": 38
+      "red": 38,
+      "green": 38,
+      "blue": 38
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 14
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 14
     }
   },
   {
@@ -3544,14 +3544,14 @@
     "name": "Grey19",
     "hex": "#303030",
     "rgb": {
-      "r": 48,
-      "g": 48,
-      "b": 48
+      "red": 48,
+      "green": 48,
+      "blue": 48
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 18
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 18
     }
   },
   {
@@ -3559,14 +3559,14 @@
     "name": "Grey23",
     "hex": "#3a3a3a",
     "rgb": {
-      "r": 58,
-      "g": 58,
-      "b": 58
+      "red": 58,
+      "green": 58,
+      "blue": 58
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 22
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 22
     }
   },
   {
@@ -3574,14 +3574,14 @@
     "name": "Grey27",
     "hex": "#444444",
     "rgb": {
-      "r": 68,
-      "g": 68,
-      "b": 68
+      "red": 68,
+      "green": 68,
+      "blue": 68
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 26
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 26
     }
   },
   {
@@ -3589,14 +3589,14 @@
     "name": "Grey30",
     "hex": "#4e4e4e",
     "rgb": {
-      "r": 78,
-      "g": 78,
-      "b": 78
+      "red": 78,
+      "green": 78,
+      "blue": 78
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 30
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 30
     }
   },
   {
@@ -3604,14 +3604,14 @@
     "name": "Grey35",
     "hex": "#585858",
     "rgb": {
-      "r": 88,
-      "g": 88,
-      "b": 88
+      "red": 88,
+      "green": 88,
+      "blue": 88
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 34
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 34
     }
   },
   {
@@ -3619,14 +3619,14 @@
     "name": "Grey39",
     "hex": "#626262",
     "rgb": {
-      "r": 98,
-      "g": 98,
-      "b": 98
+      "red": 98,
+      "green": 98,
+      "blue": 98
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 37
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 37
     }
   },
   {
@@ -3634,14 +3634,14 @@
     "name": "Grey42",
     "hex": "#6c6c6c",
     "rgb": {
-      "r": 108,
-      "g": 108,
-      "b": 108
+      "red": 108,
+      "green": 108,
+      "blue": 108
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 40
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 40
     }
   },
   {
@@ -3649,14 +3649,14 @@
     "name": "Grey46",
     "hex": "#767676",
     "rgb": {
-      "r": 118,
-      "g": 118,
-      "b": 118
+      "red": 118,
+      "green": 118,
+      "blue": 118
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 46
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 46
     }
   },
   {
@@ -3664,14 +3664,14 @@
     "name": "Grey50",
     "hex": "#808080",
     "rgb": {
-      "r": 128,
-      "g": 128,
-      "b": 128
+      "red": 128,
+      "green": 128,
+      "blue": 128
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 50
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 50
     }
   },
   {
@@ -3679,14 +3679,14 @@
     "name": "Grey54",
     "hex": "#8a8a8a",
     "rgb": {
-      "r": 138,
-      "g": 138,
-      "b": 138
+      "red": 138,
+      "green": 138,
+      "blue": 138
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 54
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 54
     }
   },
   {
@@ -3694,14 +3694,14 @@
     "name": "Grey58",
     "hex": "#949494",
     "rgb": {
-      "r": 148,
-      "g": 148,
-      "b": 148
+      "red": 148,
+      "green": 148,
+      "blue": 148
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 58
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 58
     }
   },
   {
@@ -3709,14 +3709,14 @@
     "name": "Grey62",
     "hex": "#9e9e9e",
     "rgb": {
-      "r": 158,
-      "g": 158,
-      "b": 158
+      "red": 158,
+      "green": 158,
+      "blue": 158
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 61
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 61
     }
   },
   {
@@ -3724,14 +3724,14 @@
     "name": "Grey66",
     "hex": "#a8a8a8",
     "rgb": {
-      "r": 168,
-      "g": 168,
-      "b": 168
+      "red": 168,
+      "green": 168,
+      "blue": 168
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 65
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 65
     }
   },
   {
@@ -3739,14 +3739,14 @@
     "name": "Grey70",
     "hex": "#b2b2b2",
     "rgb": {
-      "r": 178,
-      "g": 178,
-      "b": 178
+      "red": 178,
+      "green": 178,
+      "blue": 178
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 69
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 69
     }
   },
   {
@@ -3754,14 +3754,14 @@
     "name": "Grey74",
     "hex": "#bcbcbc",
     "rgb": {
-      "r": 188,
-      "g": 188,
-      "b": 188
+      "red": 188,
+      "green": 188,
+      "blue": 188
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 73
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 73
     }
   },
   {
@@ -3769,14 +3769,14 @@
     "name": "Grey78",
     "hex": "#c6c6c6",
     "rgb": {
-      "r": 198,
-      "g": 198,
-      "b": 198
+      "red": 198,
+      "green": 198,
+      "blue": 198
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 77
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 77
     }
   },
   {
@@ -3784,14 +3784,14 @@
     "name": "Grey82",
     "hex": "#d0d0d0",
     "rgb": {
-      "r": 208,
-      "g": 208,
-      "b": 208
+      "red": 208,
+      "green": 208,
+      "blue": 208
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 81
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 81
     }
   },
   {
@@ -3799,14 +3799,14 @@
     "name": "Grey85",
     "hex": "#dadada",
     "rgb": {
-      "r": 218,
-      "g": 218,
-      "b": 218
+      "red": 218,
+      "green": 218,
+      "blue": 218
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 85
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 85
     }
   },
   {
@@ -3814,14 +3814,14 @@
     "name": "Grey89",
     "hex": "#e4e4e4",
     "rgb": {
-      "r": 228,
-      "g": 228,
-      "b": 228
+      "red": 228,
+      "green": 228,
+      "blue": 228
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 89
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 89
     }
   },
   {
@@ -3829,14 +3829,14 @@
     "name": "Grey93",
     "hex": "#eeeeee",
     "rgb": {
-      "r": 238,
-      "g": 238,
-      "b": 238
+      "red": 238,
+      "green": 238,
+      "blue": 238
     },
     "hsl": {
-      "h": 0,
-      "s": 0,
-      "l": 93
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 93
     }
   }
 ]
